@@ -1,0 +1,7 @@
+// Variable overrides first
+$primary: aqua;
+
+// Then import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.scss";
